@@ -61,7 +61,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MajorAbdullah&theme=gotham)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MajorAbdullah&theme=gotham)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MajorAbdullah&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorAbdullah&layout=compact&theme=gotham)
 
