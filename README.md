@@ -52,26 +52,6 @@
 
 ---
 
-## 🔍 Featured Projects
-
-- **🌿 Indoor Environmental Monitoring System (IEMS)**  
-  A Flutter + IoT solution to monitor indoor air quality with ML-backed health insights  
-  🔗 [GitHub](https://github.com/MajorAbdullah/Indoor-Environmental-Monitoring-System)
-
-- **🧥 Fashion AI App**  
-  Virtual try-on & LLM style suggestions via a Flutter interface  
-  🔗 [GitHub](https://github.com/MajorAbdullah)
-
-- **📰 Fake News Detection**  
-  NLP-based fake news classifier using traditional ML  
-  🔗 [GitHub](https://github.com/MajorAbdullah/Fake-News-Detection-using-Machine-Learning)
-
-- **📈 ML Techniques Benchmark**  
-  Performance comparison of classic ML algorithms on various datasets  
-  🔗 [GitHub](https://github.com/MajorAbdullah/Performance-Comparison-of-Machine-Learning-Techniques-for-Classification)
-
----
-
 ## 🏅 Certifications
 
 - 🎓 15+ professional certifications in **AI**, **Cloud**, and **Mobile Development**  
@@ -83,3 +63,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MajorAbdullah&theme=gotham)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MajorAbdullah&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorAbdullah&layout=compact&theme=gotham)
+
