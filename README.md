@@ -11,7 +11,7 @@
 
 ## 🧩 About Me
 - 👨‍💻 Associate Software Engineer focused on scalable AI-driven solutions
-- 🌱 Exploring **Gen-AI**, **LLM integrations**, and **Autonomous Agents**
+- 🌱 Exploring and developing **Gen-AI**, **LLM integrations**, **ML Models** and **Autonomous Agents**
 - 💬 Let’s chat about **Flutter**, **Python**, or anything ML/AI
 - 🌐 Connect with me on [**LinkedIn**](http://www.linkedin.com/in/syed-abdullah-shah-4018a5176)
 - 📩 Contact: [sa.abdullahshah.2001@gmail.com](mailto:sa.abdullahshah.2001@gmail.com)
