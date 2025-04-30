@@ -10,6 +10,7 @@
 ---
 
 ## 🧩 About Me
+- Total coding time since Jan 2025 [![wakatime](https://wakatime.com/badge/user/4c6ca42e-d44c-44c8-83bc-baf546a2c2b9.svg)](https://wakatime.com/@4c6ca42e-d44c-44c8-83bc-baf546a2c2b9)
 - 👨‍💻 Associate Software Engineer focused on scalable AI-driven solutions
 - 🌱 Exploring and developing **Gen-AI**, **LLM integrations**, **ML Models** and **Autonomous Agents**
 - 💬 Let’s chat about **Flutter**, **Python**, or anything ML/AI
@@ -64,4 +65,8 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MajorAbdullah&theme=gotham) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MajorAbdullah&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorAbdullah&layout=compact&theme=gotham)
+<img src="https://wakatime.com/share/@4c6ca42e-d44c-44c8-83bc-baf546a2c2b9/45a494ea-365c-47af-be0c-413e8a261844.svg" width="500" height="300" />
+<img src="https://wakatime.com/share/@4c6ca42e-d44c-44c8-83bc-baf546a2c2b9/85ad26cb-bb07-45b3-8b49-bc2d068fa72f.svg" width="500" height="300" />
+
+
 
