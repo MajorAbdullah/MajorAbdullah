@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Syed Abdullah Shah</h1>
 
 <p align="center">
-  <a href="https://github.com/MajorAbdullah"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=550&lines=%F0%9F%9A%80+Software+Engineer+(3%2B+Years);%F0%9F%A7%A0+AI+%26+LLM+Architect;%F0%9F%8C%90+Full-Stack+%26+Mobile+Developer;%F0%9F%A4%96+RAG+%7C+Agents+%7C+Voice+AI+Builder" alt="Typing SVG" /></a>
+  <a href="https://github.com/MajorAbdullah"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=550&lines=%F0%9F%9A%80+Software+Engineer;%F0%9F%A7%A0+AI+%26+LLM+Architect;%F0%9F%8C%90+Full-Stack+%26+Mobile+Developer;%F0%9F%A4%96+RAG+%7C+Agents+%7C+Voice+AI+Builder" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
