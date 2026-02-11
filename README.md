@@ -30,7 +30,7 @@
 - 🌐 **Full-Stack Web** — React, Next.js, FastAPI, Flask with PostgreSQL, Firebase, and Supabase backends
 - 📱 **Mobile Apps** — Flutter/Dart cross-platform apps with Firebase, BLE, IoT, and real-time data
 - ⚡ **Automation & Tools** — n8n workflows, browser extensions, CLI tools, web scrapers
-- 🐳 **DevOps** — Docker, CI/CD, Vercel, Render, AWS deployments
+- 🐳 **DevOps** — Docker, CI/CD, Vercel, Render, AWS deployments, Railway, Custom Server
 
 <p align="center">
   <strong>Total coding time since Jan 2025</strong> &nbsp;
@@ -49,43 +49,6 @@
 | 🌍 **A web platform** | Full-stack React/Next.js apps with auth, dashboards, and real-time data |
 | 🔧 **Automation** | n8n workflows, browser extensions, scrapers, and custom tooling |
 | 🏗️ **End-to-end development** | From architecture design to deployment — I own the full lifecycle |
-
----
-
-## ⭐ Featured Projects
-
-### 🤖 AI / Machine Learning
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**healthcare-assistant**](https://github.com/MajorAbdullah/healthcare-assistant) | 🏥 AI healthcare system with RAG, doctor portal, and Google Calendar integration | Python, FastAPI, RAG |
-| [**ai-research-platform**](https://github.com/MajorAbdullah/ai-research-platform) | 🔬 Research platform with OpenAI O3/O4-Mini model selection and document analysis | Python, FastAPI, Docker |
-| [**chatbot**](https://github.com/MajorAbdullah/chatbot) | 💬 Multi-brand AI customer support with RAG, RBAC, and image analysis | Python, Flask, Gemini, FAISS |
-| [**Image-rag-assistant**](https://github.com/MajorAbdullah/Image-rag-assistant) | 🖼️ Oracle RAG learning assistant with image understanding | Python, Streamlit, ChromaDB |
-| [**Fashion-AI**](https://github.com/MajorAbdullah/Fashion-AI) | 👗 AI-powered fashion recommendation app with Firebase backend | Flutter, Dart, Firebase |
-| [**model_fashion**](https://github.com/MajorAbdullah/model_fashion) | 🧪 Fashion recommender API with ML classification pipeline (3 model types) | Python, FastAPI, scikit-learn |
-
-### 📱 Mobile & Web Apps
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**carenest**](https://github.com/MajorAbdullah/carenest) | 🏥 Healthcare management platform connecting patients, family & doctors | Flutter, Firebase |
-| [**GoodNeighbor**](https://github.com/MajorAbdullah/GoodNeighbor) | 🤝 Community help platform with real-time task matching & admin moderation | Flutter, Firebase |
-| [**gratitude_notes**](https://github.com/MajorAbdullah/gratitude_notes) | 📝 Gratitude journaling app — Play Store ready with premium features | Flutter, Riverpod, Hive |
-| [**glassleads-landing**](https://github.com/MajorAbdullah/glassleads-landing) | 📊 Amazon seller lead platform with enrichment, filters & CSV export | React, TypeScript, Supabase |
-| [**gemini_fashion_bot**](https://github.com/MajorAbdullah/gemini_fashion_bot) | 🤖 AI fashion advisor chatbot with image analysis | Flutter, Gemini API |
-| [**Indoor-Monitoring-IEMS**](https://github.com/MajorAbdullah/Indoor-Environmental-Monitoring-System-IEMS-) | 🌡️ IoT environmental monitoring with real-time sensor dashboard | Flutter, Firebase, IoT |
-
-### 🛠️ Tools & Platforms
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**YT_downloader**](https://github.com/MajorAbdullah/YT_downloader) | 🎬 Multi-platform video downloader (12+ platforms) with queue system | Next.js, Express, yt-dlp |
-| [**communitae-ai**](https://github.com/MajorAbdullah/communitae-ai) | 📣 Social media management platform with Google AI & Instagram integration | Next.js, Prisma, n8n |
-| [**linky**](https://github.com/MajorAbdullah/linky) | 🔗 Collaborative browser extension with Firebase and Google Sheets sync | JavaScript, Firebase |
-| [**Calendar-CLI**](https://github.com/MajorAbdullah/Calendar-CLI) | 📅 AI calendar assistant with timezone support for 100+ cities | Python, Streamlit, Gemini |
-| [**pinterest-downloader**](https://github.com/MajorAbdullah/pinterest-downloader) | 📌 Pinterest media downloader with GUI and batch support | Python, Playwright |
-| [**K-Compiler**](https://github.com/MajorAbdullah/K-Compiler) | ⚙️ Custom K++ language compiler (lexer → parser → optimizer → code gen) | Python, Jupyter |
 
 ---
 
@@ -145,20 +108,40 @@
 
 ---
 
-## 🏆 Trophies
+## ⭐ Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MajorAbdullah&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
+### 🤖 AI / Machine Learning
 
----
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**healthcare-assistant**](https://github.com/MajorAbdullah/healthcare-assistant) | 🏥 AI healthcare system with RAG, doctor portal, and Google Calendar integration | Python, FastAPI, RAG |
+| [**ai-research-platform**](https://github.com/MajorAbdullah/ai-research-platform) | 🔬 Research platform with OpenAI O3/O4-Mini model selection and document analysis | Python, FastAPI, Docker |
+| [**chatbot**](https://github.com/MajorAbdullah/chatbot) | 💬 Multi-brand AI customer support with RAG, RBAC, and image analysis | Python, Flask, Gemini, FAISS |
+| [**Image-rag-assistant**](https://github.com/MajorAbdullah/Image-rag-assistant) | 🖼️ Oracle RAG learning assistant with image understanding | Python, Streamlit, ChromaDB |
+| [**Fashion-AI**](https://github.com/MajorAbdullah/Fashion-AI) | 👗 AI-powered fashion recommendation app with Firebase backend | Flutter, Dart, Firebase |
+| [**model_fashion**](https://github.com/MajorAbdullah/model_fashion) | 🧪 Fashion recommender API with ML classification pipeline (3 model types) | Python, FastAPI, scikit-learn |
 
-## 🏢 Organizations
+### 📱 Mobile & Web Apps
 
-<p align="center">
-  <a href="https://github.com/Tekniki"><img src="https://img.shields.io/badge/Tekniki-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Communitae-AI"><img src="https://img.shields.io/badge/Communitae--AI-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**carenest**](https://github.com/MajorAbdullah/carenest) | 🏥 Healthcare management platform connecting patients, family & doctors | Flutter, Firebase |
+| [**GoodNeighbor**](https://github.com/MajorAbdullah/GoodNeighbor) | 🤝 Community help platform with real-time task matching & admin moderation | Flutter, Firebase |
+| [**gratitude_notes**](https://github.com/MajorAbdullah/gratitude_notes) | 📝 Gratitude journaling app — Play Store ready with premium features | Flutter, Riverpod, Hive |
+| [**glassleads-landing**](https://github.com/MajorAbdullah/glassleads-landing) | 📊 Amazon seller lead platform with enrichment, filters & CSV export | React, TypeScript, Supabase |
+| [**gemini_fashion_bot**](https://github.com/MajorAbdullah/gemini_fashion_bot) | 🤖 AI fashion advisor chatbot with image analysis | Flutter, Gemini API |
+| [**Indoor-Monitoring-IEMS**](https://github.com/MajorAbdullah/Indoor-Environmental-Monitoring-System-IEMS-) | 🌡️ IoT environmental monitoring with real-time sensor dashboard | Flutter, Firebase, IoT |
+
+### 🛠️ Tools & Platforms
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**YT_downloader**](https://github.com/MajorAbdullah/YT_downloader) | 🎬 Multi-platform video downloader (12+ platforms) with queue system | Next.js, Express, yt-dlp |
+| [**communitae-ai**](https://github.com/MajorAbdullah/communitae-ai) | 📣 Social media management platform with Google AI & Instagram integration | Next.js, Prisma, n8n |
+| [**linky**](https://github.com/MajorAbdullah/linky) | 🔗 Collaborative browser extension with Firebase and Google Sheets sync | JavaScript, Firebase |
+| [**Calendar-CLI**](https://github.com/MajorAbdullah/Calendar-CLI) | 📅 AI calendar assistant with timezone support for 100+ cities | Python, Streamlit, Gemini |
+| [**pinterest-downloader**](https://github.com/MajorAbdullah/pinterest-downloader) | 📌 Pinterest media downloader with GUI and batch support | Python, Playwright |
+| [**K-Compiler**](https://github.com/MajorAbdullah/K-Compiler) | ⚙️ Custom K++ language compiler (lexer → parser → optimizer → code gen) | Python, Jupyter |
 
 ---
 
@@ -170,12 +153,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MajorAbdullah&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MajorAbdullah&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajorAbdullah&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </p>
