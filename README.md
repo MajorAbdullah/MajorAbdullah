@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MajorAbdullah&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MajorAbdullah&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&base=50000" alt="Profile Views" />
 </p>
 
 ---
