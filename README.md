@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hey, I'm Syed Abdullah Shah</h1>
-<h3 align="center">🚀 Software Engineer (3+ Years) | AI & LLM Architect | Full-Stack & Mobile Developer</h3>
+
+<p align="center">
+  <a href="https://github.com/MajorAbdullah"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Software+Engineer+(3%2B+Years);%F0%9F%A7%A0+AI+%26+LLM+Architect;%F0%9F%8C%90+Full-Stack+%26+Mobile+Developer" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <em>I turn ideas into production-ready software — from AI-powered platforms to cross-platform mobile apps.</em>
@@ -139,10 +142,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MajorAbdullah&theme=gotham&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MajorAbdullah&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajorAbdullah&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MajorAbdullah&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajorAbdullah&theme=gotham&hide_border=true" alt="GitHub Streak" />
