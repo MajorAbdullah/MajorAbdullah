@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Syed Abdullah Shah</h1>
 
 <p align="center">
-  <a href="https://github.com/MajorAbdullah"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Software+Engineer+(3%2B+Years);%F0%9F%A7%A0+AI+%26+LLM+Architect;%F0%9F%8C%90+Full-Stack+%26+Mobile+Developer" alt="Typing SVG" /></a>
+  <a href="https://github.com/MajorAbdullah"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=550&lines=%F0%9F%9A%80+Software+Engineer+(3%2B+Years);%F0%9F%A7%A0+AI+%26+LLM+Architect;%F0%9F%8C%90+Full-Stack+%26+Mobile+Developer;%F0%9F%A4%96+RAG+%7C+Agents+%7C+Voice+AI+Builder" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -15,6 +15,10 @@
   <a href="https://www.coursera.org/learner/syed-abdullah-shah"><img src="https://img.shields.io/badge/Coursera-2A73CC?style=for-the-badge&logo=coursera&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MajorAbdullah&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🔥 What I Do
@@ -22,9 +26,10 @@
 > **I build products that solve real problems** — whether it's an AI healthcare assistant that schedules doctor appointments, a multi-platform video downloader handling millions of requests, or a mobile app ready for the Play Store. If you can dream it, I can ship it.
 
 - 🧠 **AI & LLM Systems** — RAG pipelines, autonomous agents, chatbots, computer vision, and recommendation engines
+- 🗣️ **Voice AI** — VAPI voice assistants, speech-to-text, conversational AI pipelines
 - 🌐 **Full-Stack Web** — React, Next.js, FastAPI, Flask with PostgreSQL, Firebase, and Supabase backends
 - 📱 **Mobile Apps** — Flutter/Dart cross-platform apps with Firebase, BLE, IoT, and real-time data
-- ⚡ **Automation & Tools** — Browser extensions, CLI tools, web scrapers, n8n workflows
+- ⚡ **Automation & Tools** — n8n workflows, browser extensions, CLI tools, web scrapers
 - 🐳 **DevOps** — Docker, CI/CD, Vercel, Render, AWS deployments
 
 <p align="center">
@@ -38,10 +43,11 @@
 
 | What You Need | What I Deliver |
 |---|---|
-| 🤖 **An AI-powered product** | Production-ready LLM apps with RAG, vector search, and multi-model support |
+| 🤖 **An AI-powered product** | Production-ready LLM apps with RAG, vector search, agents, and multi-model support |
+| 🗣️ **A voice assistant** | Custom VAPI voice agents with telephony, scheduling, and CRM integration |
 | 📱 **A mobile app** | Cross-platform Flutter apps — Play Store & App Store ready |
 | 🌍 **A web platform** | Full-stack React/Next.js apps with auth, dashboards, and real-time data |
-| 🔧 **Automation** | Custom tools, browser extensions, scrapers, and workflow automation |
+| 🔧 **Automation** | n8n workflows, browser extensions, scrapers, and custom tooling |
 | 🏗️ **End-to-end development** | From architecture design to deployment — I own the full lifecycle |
 
 ---
@@ -102,13 +108,23 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**🧠 AI / ML**
+**🧠 AI / ML / Agents**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
+![VAPI](https://img.shields.io/badge/VAPI-5046E5?style=for-the-badge&logoColor=white)
+![MiniMax](https://img.shields.io/badge/MiniMax-000000?style=for-the-badge&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-222222?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **☁️ Infrastructure & DevOps**
 
@@ -119,8 +135,21 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ED5C4D?style=for-the-badge&logo=n8n&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**⚡ Automation & Workflow**
+
+![n8n](https://img.shields.io/badge/n8n-ED5C4D?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MajorAbdullah&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -133,7 +162,7 @@
 
 ---
 
-## 🏆 Certifications
+## 🎓 Certifications
 
 15+ professional certifications in **AI**, **Cloud**, and **Mobile Development** — [view on LinkedIn](http://www.linkedin.com/in/syed-abdullah-shah-4018a5176)
 
@@ -150,6 +179,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajorAbdullah&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MajorAbdullah&theme=gotham&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
 <p align="center">
   <img src="https://wakatime.com/share/@4c6ca42e-d44c-44c8-83bc-baf546a2c2b9/45a494ea-365c-47af-be0c-413e8a261844.svg" width="500" height="300" />
   <img src="https://wakatime.com/share/@4c6ca42e-d44c-44c8-83bc-baf546a2c2b9/85ad26cb-bb07-45b3-8b49-bc2d068fa72f.svg" width="500" height="300" />
@@ -158,6 +194,12 @@
 ---
 
 <p align="center">
-  <strong>💡 Got a project idea? Let's build it together.</strong><br/>
-  <a href="mailto:sa.abdullahshah.2001@gmail.com">📧 sa.abdullahshah.2001@gmail.com</a> · <a href="https://syed-abdullah-shah.vercel.app/">🌐 Portfolio</a> · <a href="http://www.linkedin.com/in/syed-abdullah-shah-4018a5176">💼 LinkedIn</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <strong>💡 Got a project idea? Let's build it together.</strong><br/><br/>
+  <a href="mailto:sa.abdullahshah.2001@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://syed-abdullah-shah.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="http://www.linkedin.com/in/syed-abdullah-shah-4018a5176"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
